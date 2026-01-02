@@ -1,0 +1,1 @@
+[![.github/workflows/main.yml](https://github.com/dimych1601/netology_javascript_tests_task1/actions/workflows/main.yml/badge.svg)](https://github.com/dimych1601/netology_javascript_tests_task1/actions/workflows/main.yml)
